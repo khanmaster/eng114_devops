@@ -78,7 +78,7 @@ sudo npm install pm2 -g
 - `restart` and `enable`
 -  
 - 
-
+![](images/Screenshot%20(280).png)
 #####
 - How to check process running in linux
 - `top` or `ps aux`
